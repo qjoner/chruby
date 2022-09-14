@@ -1,4 +1,4 @@
----
+bash --version---
 name: Bug Report
 about: Report a bug
 title: ''
